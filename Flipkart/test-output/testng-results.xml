@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84750" started-at="2021-04-08T15:11:21 IST" finished-at="2021-04-08T15:12:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84750" started-at="2021-04-08T15:11:21 IST" finished-at="2021-04-08T15:12:45 IST">
+      <class name="Test.Test1">
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:Test.Test1@33c7e1bb]" name="OpenApp" is-config="true" duration-ms="9894" started-at="2021-04-08T15:11:21 IST" finished-at="2021-04-08T15:11:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method status="PASS" signature="PrintAllPhonesName()[pri:0, instance:Test.Test1@33c7e1bb]" name="PrintAllPhonesName" duration-ms="74803" started-at="2021-04-08T15:11:30 IST" finished-at="2021-04-08T15:12:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintAllPhonesName -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:Test.Test1@33c7e1bb]" name="CloseApp" is-config="true" duration-ms="0" started-at="2021-04-08T15:12:45 IST" finished-at="2021-04-08T15:12:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- Test.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
